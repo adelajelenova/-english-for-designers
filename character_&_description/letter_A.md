@@ -1,7 +1,7 @@
 ## Character & Description
 
  ![Blue letter A written in font Helvetica. Instead of the middle line, there are three small dots.](letter_A.png)
-###### Adéla Jelenová, Designed in Adobe Illustrator. ######
+###### *A*, Adéla Jelenová, Designed in Adobe Illustrator. ######
 
  - - -
  
