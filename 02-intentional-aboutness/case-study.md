@@ -7,7 +7,6 @@ This project was for me the first bigger project outside of school. My work was 
 <br />
 ![Kávové_sáčky.jpg.](./img/Kávové_sáčky.jpg)
 `Paper coffee pack with logo.`
-
 <br />
 <br />
 Other publications I made were billboards throughout the village. We wanted something distinctive, but still color-coordinated with the interior of the cafe. The interior of the cafe is mostly wooden. The only distinctive element in the cafe are the colorful armchairs. So we decided together that we would tune the ads for the cafe to mustard yellow. The first thing I started working on was business cards. These are important for customers because you can order meals to take with you. I still wanted to make it simple, but at the same time recognizeable that the customers would notice this business card in their wallet among others.
