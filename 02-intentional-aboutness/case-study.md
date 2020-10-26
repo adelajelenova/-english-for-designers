@@ -1,3 +1,5 @@
+# Case study- Visual identity for the cafe.
+
 This project was for me the first bigger project outside of school. My work was to make a visual identity for the cafe. The only thing that was clear was the name of the cafe (Ovčín = Sheepfold). Name was chosen by the customer I worked for. The first thing I had to do was logo. The customer wanted something friendly, original and easy to remember. This was my first problem. The original logo in the world of cafes. We have a cafe everywhere in Prague. So the first thing I had to do was research other cafes visual identities to make a different one. I wanted to connect this cafe with the place where it is located. So I combined a sheep (animal) with a coffee bean. I made a coffee bean in the shape of a sheep's head. At the same time, I wanted the pictogram work without the name of the cafe below. I am quite happy with the final logo, which we choose.
 <br />
 <br />
