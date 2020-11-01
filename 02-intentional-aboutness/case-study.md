@@ -39,4 +39,4 @@ In the future, I’m going to make a page for the café in a local magazine and 
 <br />
 <br />
 Follow us on instagram: @ovcin_cafebistro
-The webside will be ou soon.
+The website will be out soon.
