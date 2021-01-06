@@ -5,7 +5,7 @@ Why?
 Field hockey is a big part of my life and I think my way 
 from a girl who was „smaller“ than a hockey stick 
 to national team player can be interesting.
-![Small_me.jpg.](./img/Small_me.jpg)
+![Small_me.JPG.](./img/Small_me.JPG)
 `2004.`
 
 ### What if field hockey?
