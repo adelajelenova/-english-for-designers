@@ -6,7 +6,7 @@ For example, artists. They copy every time they paint their work. One comes up w
 From an early age, teachers teach us, through copying. When a teacher draws something and wants us to draw it the same way, it's also a form of copying. 
 Sometimes people don't want to admit that they're copying, so they call it inspired.
 
-In the makup industry, it's exactly the same. How would new makeup artists learn techniques? They have to copy. They have to copy what someone has already done, because in this industry it's about accuracy.
+In the make-up industry, it's exactly the same. How would new makeup artists learn techniques? They have to copy. They have to copy what someone has already done, because in this industry it's about accuracy.
 
 How did copying help me? If I don't know something in the graphics program, I will find a tutorial and do what is on the video. So I copy what is there to achieve what I wanted and I am learning at the same time. Because next time I'll know how to do it. And that's how it is with everything.
 
