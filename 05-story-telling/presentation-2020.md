@@ -50,6 +50,7 @@ The next year I was at sea with the national team in Italy. And in 2016, I playe
 ![glasgow.jpg.](./img/glasgow.jpg)
 
 `Our team.`
+
 ![medaile.jpg.](./img/medaile.jpg)
 
 `Here is bronze medal and my ankle.`
@@ -61,7 +62,7 @@ I have been playing for Pilsen for the last 3 seasons and I am more satisfied th
 
 `My current team - TJ Pilsen Litice.`
 
-Although we are a contactless sport, it sometimes hurts. 
+Although we are a contactless sport, it sometimes hurts. But what is the worst thing for us field hockey players is the bad tan. haha
 
 ![modriny.jpg.](./img/modriny.jpg)
 
@@ -70,8 +71,6 @@ Although we are a contactless sport, it sometimes hurts.
 ![tan.jpg.](./img/tan.jpg)
 
 `Ridiculous tan.`
-
-But what is the worst thing for us field hockey players is the bad tan. haha
 
 ## What did hockey give me?
 ### Happiness  
