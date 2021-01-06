@@ -26,10 +26,15 @@ I have been playing for Pilsen for the last 3 seasons and I am more satisfied th
 Although we are a contactless sport, it sometimes hurts.But what is the worst thing for us field hockey players is the bad tan. haha
 
 ## What did hockey give me?
-### Happiness - The feeling when you win something is indescribably great and that's why I play it for so long because I want to win again and again.
-### Learn to lose - the sport is not just about winning. Not even life.
-### My best friend - We are rivals because we each play for a different team. But we met when we started playing together in the national team and we have been an inseparable couple ever since.
-### Teamwork - I think it's an important ability to work with people.
-### Friends - And the last of a lot of friendships and experiences that I would not exchange for anything in the world.
+### Happiness - 
+The feeling when you win something is indescribably great and that's why I play it for so long because I want to win again and again.
+### Learn to lose - 
+the sport is not just about winning. Not even life.
+### My best friend - 
+We are rivals because we each play for a different team. But we met when we started playing together in the national team and we have been an inseparable couple ever since.
+### Teamwork - 
+I think it's an important ability to work with people.
+### Friends - 
+And the last of a lot of friendships and experiences that I would not exchange for anything in the world.
 
 I guess I just want to say that I'm very happy with what I got thanks to field hockey and where I've been everywhere.
