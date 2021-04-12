@@ -2,6 +2,12 @@
 
 In my thesis I will create a visual identity and marketing strategies for field hockey. Field hockey is olympic sport. Main problem is that in Czech republic is this sport unknown. I want to help popularizate it. 
 
+<details>
+  <summary>Mind Map</summary>
+
+  ![Gray box placeholder image, for position only.](./thesis-mind-map.png)
+</details>
+
 
 ### Voice & Tone
 
