@@ -40,7 +40,7 @@ This is a diploma for children. On the diploma we can see for which category the
 
 Other press materials are writing papers and envelopes. Nowadays, everything is electronic, so I prepared a signature for e-mail.  Definitely in a complex visual style, there must be business cards that represent this sport.
 
-![bussines card.](img/emial.jpg)
+![bussines card.](img/email.jpg)
 `E-mail signature.
 
 ![bussines card.](img/card.jpg)
