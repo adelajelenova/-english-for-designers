@@ -2,8 +2,30 @@
 ![new logo.](img/logo.jpg)
 `New logo for field hockey.
 
-![bussines card.](img/card.jpg)
-`Design of bussines card.
+## Abstract
+This bachelor thesis deals with the creation of a new visual style for the already functioning field hockey sport. At first, describes the visual and marketing state of the sport in the Czech Republic. Then compares the visual and promotional functioning of other countries of field hockey in the country and also analyses other sports in the Czech Republic. In practical terms, there's a presentation of my suggestions for a better running of the sport. The target is to make a new visual style and marketing strategies to better promote and attract sponsors and money. 
+
+Key words: field hockey, sport, marketing strategy, visual style, identity, graphic design, media design
+
+## Field hockey
+Field hockey is an olympic sport for women and men. It is known around the world as hockey. In the Czech Republic, when somebody says hockey, everyone imagines ice hockey. I would like to help field hockey to become visible. Field hockey has an old logo that is not complex with the whole visual. That's why I decided to redo it.
+
+## My bachelor thesis
+My bachelor thesis will deal with a new visual style for field hockey.  I chose this topic because I am playing field hockey for 17 years and I would like to help popularize this sport.  The current state of field hockey in the Czech Republic is quite terrible.  I decided to redesign the logo in the first place.  I wanted a simple, modern, but memorable logo.  the hockey stick in the logo can be red or blue like the Czech tricolor.  but the whole visual style is not just about the logo.  My visual style is complex with all print materials and merchaindising.  Part of my bachelor thesis are also to come up with new marketing strategies.  Much of my marketing strategies take place on social networks.  Especially on the Instagram.
+
+![instagram feed.](img/ig.jpg)
+`Instagram fedd.
+
+![instagram post.](img/post.jpg)
+`Instagram post.
+
+Here you can see a post in which cwechfieldhockey inform followers about weekend matches.
+Some of the posts have a hockey stick frame from the logo.
+
+![billboard.](img/billboard.jpg)
+`Billboard design.
+
+I include billboards among the printed materials.  You can see that the Hockey stick next to the word yes is used as a pipe.  This is how a poster at a bus stop might look like. Other press material are diplomas.
 
 ![diplom.](img/diplom.jpg)
 `Design of diplomas for women and men.
@@ -11,10 +33,39 @@
 ![plakát.](img/plakát.jpg)
 `Design of poster on bus station.
 
-## Abstract
-This bachelor thesis deals with the creation of a new visual style for the already functioning field hockey sport. At first, describes the visual and marketing state of the sport in the Czech Republic. Then compares the visual and promotional functioning of other countries of field hockey in the country and also analyses other sports in the Czech Republic. In practical terms, there's a presentation of my suggestions for a better running of the sport. The target is to make a new visual style and marketing strategies to better promote and attract sponsors and money. 
+![diplom.](img/deti.jpg)
+`Design of diplomas for kids.
 
-Key words: field hockey, sport, marketing strategy, visual style, identity, graphic design, media design
+This is a diploma for children. On the diploma we can see for which category the diploma is obtained and for which team.  It's not on adult diplomas.
+
+Other press materials are writing papers and envelopes. Nowadays, everything is electronic, so I prepared a signature for e-mail.  Definitely in a complex visual style, there must be business cards that represent this sport.
+
+![bussines card.](img/emial.jpg)
+`E-mail signature.
+
+![bussines card.](img/card.jpg)
+`Design of bussines card.
+
+As one of the ideas for making money, I came up with the idea that field hockey would have merchandise. merch also includes small gifts that children will win in tournaments.  Field hockey will have own clothes.  For example hoodie.  The colors of the sleeves would change according to gender for the national teams.  Women will have red sleeves and men blue.  a fan can buy this hoodie too and he can buy what color they wants.  Another distinction between a national player's hoodie and a fan is that the national player will have his number written on pocket.  Other clothes are a women's bra, socks and a training shirt.
+
+![hoodie.](img/hoodie.jpg)
+`Hoodie design.
+
+![Bra.](img/bra.jpg)
+`Bra design.
+
+![Socks.](img/socks.jpg)
+`Socks design.
+
+Last but not least, I prepared a visual of the new medals.  
+
+![medal.](img/medal.jpg)
+`Medal design.
+
+Once in a while, the European Championship is played in the Czech Republic.  This event is usually more daily, so I designed a visual of bracelets for more daily entry.
+
+![Bracelets.](img/bracelets.jpg)
+`Bracelets design.
 
 ## Field hockey
 Field hockey is an olympic sport for women and men. It is known around the world as hockey. In the Czech Republic, when somebody says hockey, everyone imagines ice hockey. I would like to help field hockey to become visible. Field hockey has an old logo that is not complex with the whole visual. That's why I decided to redo it.
