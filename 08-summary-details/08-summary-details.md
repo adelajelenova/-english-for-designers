@@ -14,7 +14,7 @@ Field hockey is an olympic sport for women and men. It is known around the world
 My bachelor thesis will deal with a new visual style for field hockey.  I chose this topic because I am playing field hockey for 17 years and I would like to help popularize this sport.  The current state of field hockey in the Czech Republic is quite terrible.  I decided to redesign the logo in the first place.  I wanted a simple, modern, but memorable logo.  the hockey stick in the logo can be red or blue like the Czech tricolor.  but the whole visual style is not just about the logo.  My visual style is complex with all print materials and merchaindising.  Part of my bachelor thesis are also to come up with new marketing strategies.  Much of my marketing strategies take place on social networks.  Especially on the Instagram.
 
 ![instagram feed.](img/ig.jpg)
-`Instagram fedd.
+`Instagram feed.
 
 ![instagram post.](img/post.jpg)
 `Instagram post.
