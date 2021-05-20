@@ -19,7 +19,7 @@ My bachelor thesis will deal with a new visual style for field hockey.  I chose 
 ![instagram post.](img/post.jpg)
 `Instagram post.
 
-Here you can see a post in which cwechfieldhockey inform followers about weekend matches.
+Here you can see a post in which czechfieldhockey inform followers about weekend matches.
 Some of the posts have a hockey stick frame from the logo.
 
 ![billboard.](img/billboard.jpg)
