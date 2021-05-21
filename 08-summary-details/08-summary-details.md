@@ -3,9 +3,9 @@
 `New logo for field hockey.
 
 ## Abstract
-This bachelor thesis deals with the creation of a new visual style for the already functioning field hockey sport. At first, describes the visual and marketing state of the sport in the Czech Republic. Then compares the visual and promotional functioning of other countries of field hockey in the country and also analyses other sports in the Czech Republic. In practical terms, there's a presentation of my suggestions for a better running of the sport. The target is to make a new visual style and marketing strategies to better promote and attract sponsors and money. 
+This bachelor thesis explores a new visual style and marketing strategy to promote field hockey in the Czech Republic. Initial research examines the current state of the visual communication and marketing strategies of the sport. Then followed by a comparison of the visual and promotional campaigns of field hockey locally and in other countries, and an analysis of other sports in Czechia. The resulting work is a presentation that outlines and documents recommendations for organizing and operating a successful national field hockey campaign. The work aims to develop a new visual style and marketing strategy to better promote and attract paid sponsorship for field hockey as a national sport in the Czech Republic.
 
-Key words: field hockey, sport, marketing strategy, visual style, identity, graphic design, media design
+Keywords: field hockey, sport, visual style, identity, graphic design, marketing strategy
 
 ## Field hockey
 Field hockey is an olympic sport for women and men. It is known around the world as hockey. In the Czech Republic, when somebody says hockey, everyone imagines ice hockey. I would like to help field hockey to become visible. Field hockey has an old logo that is not complex with the whole visual. That's why I decided to redo it.
