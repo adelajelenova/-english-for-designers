@@ -1,6 +1,6 @@
 # Visual identity and marketing strategies for filed hockey
 ![new logo.](img/logo.jpg)
-`New logo for field hockey.
+`New logo for field hockey.`
 
 ## Abstract
 This bachelor thesis explores a new visual style and marketing strategy to promote field hockey in the Czech Republic. Initial research examines the current state of the visual communication and marketing strategies of the sport. Then followed by a comparison of the visual and promotional campaigns of field hockey locally and in other countries, and an analysis of other sports in Czechia. The resulting work is a presentation that outlines and documents recommendations for organizing and operating a successful national field hockey campaign. The work aims to develop a new visual style and marketing strategy to better promote and attract paid sponsorship for field hockey as a national sport in the Czech Republic.
